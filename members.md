@@ -1,6 +1,6 @@
 | Name | Email  |  GitHub |
 | -----|:------:| :-----: |
-| Ashley Sia | <snowstorm1@berkeley.edu> | <a href = "https://github.com/ashleysia">ashleysia</a> |
+| Ashley Sia | <ashleysia@berkeley.edu> | <a href = "https://github.com/ashleysia">ashleysia</a> |
 | Raymond Ma | <rayma@berkeley.edu> | <a href = "https://github.com/raymondma1">raymondma1</a> |
 | Christina Ho |  | <a href = "https://github.com/chocoho">chocoho</a> |
 | Sam Kirschner |  | <a href = "https://github.com/drmeow">drmeow</a> |
