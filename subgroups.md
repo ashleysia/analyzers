@@ -19,7 +19,8 @@ Brian Liou	(Presenter)	@brianliou
 Eric Tsai	(Analyzer)	@
 
 * Task: Researching and Negotiating on Data Formats
-* SMART goals: https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fjoyyqchen%2FEarthquakeProject.Team-Chen.Kirschner.Liou.Tsai%2Fblob%2Fmaster%2FREADME.md&h=hAQFNJk0m
+* SMART goals: https://github.com/joyyqchen/EarthquakeProject.Team-Chen.Kirschner.Liou.Tsai/blob/master/README.md
+
 
 Team for Task 7
 =========
