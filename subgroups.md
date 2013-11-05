@@ -25,9 +25,9 @@ Eric Tsai	(Analyzer)	@
 Team for Task 7
 =========
 * Members:
-Ashley Sia (Visualizer) @ashleysia
+Ashley Sia (Visualizer, Operational Lead) @ashleysia
 Raymond Ma (Visualizer) @raymondma1
-David Lau (Presenter) @davidopluslau 
+David Lau (Presenter, Technical Lead) @davidopluslau 
 Yoojin Jang (Presenter) @all4ujin 
 
 * Task: Visualize raw earthquake data (Time Series)
