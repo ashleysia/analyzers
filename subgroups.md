@@ -42,7 +42,7 @@ Jinsoo Lee (aka Jason) (Visualizer) @annyeongjs
 HyungKyu Chang (Visualizer) @hkchang89
 
 * Task: Create Visual for ETAS and Alarm Data in Report
-* MART goals: https://github.com/stat157/background/issues/22
+* SMART goals: https://github.com/stat157/background/issues/22
 
 
 The Quakers  
