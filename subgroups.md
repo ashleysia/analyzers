@@ -22,7 +22,7 @@ Eric Tsai	(Analyzer)	@
 * SMART goals: https://github.com/joyyqchen/EarthquakeProject.Team-Chen.Kirschner.Liou.Tsai/blob/master/README.md
 
 
-Team for Task 7
+Team HA
 =========
 * Members:
 Ashley Sia (Visualizer, Operational Lead) @ashleysia
