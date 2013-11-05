@@ -1,48 +1,48 @@
 Group Smile
 =========
-*Members:
+* Members:
 Reena Shah (Operational Lead) @reenashah
 Timothy Hoang (Analyzer) @timothyhoang
 Tristan Tao (Technical Lead) @tristantao 
 David Wang (Presenter) @davidwang001
 
-*Task: Preliminary Data Curation
-*SMART goals: https://github.com/stat157/background/issues/25
+* Task: Preliminary Data Curation
+* SMART goals: https://github.com/stat157/background/issues/25
 
 
 Team 9
 =========
-*Members:
+* Members:
 Joy Chen	(Visualizer)	@joyyqchen
 Sam Kirschner	(Visualizer)	@drmeow
 Brian Liou	(Presenter)	@brianliou
 Eric Tsai	(Analyzer)	@
 
-*Task: Researching and Negotiating on Data Formats
-* goals: https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fjoyyqchen%2FEarthquakeProject.Team-Chen.Kirschner.Liou.Tsai%2Fblob%2Fmaster%2FREADME.md&h=hAQFNJk0m
+* Task: Researching and Negotiating on Data Formats
+* SMART goals: https://www.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fjoyyqchen%2FEarthquakeProject.Team-Chen.Kirschner.Liou.Tsai%2Fblob%2Fmaster%2FREADME.md&h=hAQFNJk0m
 
 Team for Task 7
 =========
-*Members:
+* Members:
 Ashley Sia (Visualizer) @ashleysia
 Raymond Ma (Visualizer) @raymondma1
 David Lau (Presenter) @davidopluslau 
 Yoojin Jang (Presenter) @all4ujin 
 
-*Task: Visualize raw earthquake data (Time Series)
-*SMART goals: https://github.com/stat157/presenters/issues/7
+* Task: Visualize raw earthquake data (Time Series)
+* SMART goals: https://github.com/stat157/presenters/issues/7
 
 Team for Task 8
 =========
-*Members:
+* Members:
 Hong Shon (Presenter) @tzenarr 
 Christina Ho (Operational Lead, Visualizer) @chocoho
 Sung Hoon Choi (Visualizer) @shchoi
 Jinsoo Lee (aka Jason) (Visualizer) @annyeongjs
 HyungKyu Chang (Visualizer) @hkchang89
 
-*Task: Create Visual for ETAS and Alarm Data in Report
-*SMART goals: https://github.com/stat157/background/issues/22
+* Task: Create Visual for ETAS and Alarm Data in Report
+* MART goals: https://github.com/stat157/background/issues/22
 
 
 The Quakers  
