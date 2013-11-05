@@ -1,7 +1,7 @@
-analyzers
+visualizers
 =========
 
-Horizontal group for producers (analyzers)    
+Horizontal group for visualizers 
 
 * `images`: screenshots from office hours/classes/meetings
 * `notes`: notes from office hours/classes/meetings
