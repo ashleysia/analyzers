@@ -55,4 +55,6 @@ Siyang Zeng (Sunny) <ho20037900@gmail.com>
 Alex Chao <alexchao56@gmail.com>  
 
 * Task: Understanding and iterpreting the ETAS model  
+* Group repo: https://github.com/SunnySunnia/TheQuakers  
+
 
