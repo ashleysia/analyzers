@@ -33,7 +33,7 @@ Yoojin Jang (Presenter) @all4ujin
 * Task: Visualize raw earthquake data (Time Series)
 * SMART goals: https://github.com/stat157/presenters/issues/7
 
-Team for Task 8
+Team for Task 8 (<3)
 =========
 * Members:
 Hong Shon (Presenter) @tzenarr 
